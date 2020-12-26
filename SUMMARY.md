@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Board](README.md)
 

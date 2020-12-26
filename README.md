@@ -1,8 +1,4 @@
----
-description: Description
----
-
-# Page
+# Board
 
 ## Getting Super Powers
 
